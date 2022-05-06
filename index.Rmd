@@ -26,6 +26,12 @@ dados_anuario <- read_delim("data/dados-anuario.csv",
 ```
 
 ---
+
+
+## VI International Seminar on Statistics with R
+
+
+
 background-image: url(img/CDnaEP_[VersaoHORIZONTAL-COR].png)
 background-position: 50% 50%
 class: center, bottom
