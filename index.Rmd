@@ -189,19 +189,12 @@ dados_viol_sex_bahia_raca_cor %>%
 
 
 
-## Exemplo de dashboard externo - Mapa
+## Materiais e referências
 
 1. [App Segurança Pública](https://robsonpessoa.shinyapps.io/ssp_indicadores/)
 2. [Povoamento - exemplo](https://github.com/cienciadedadosnaep/rs_dados_justica_violenciacontraamulher)
+3. [Artigo: Dados sobre Feminicídio](https://artigo19.org/wp-content/blogs.dir/24/files/2018/03/Dados-Sobre-Feminic%c3%addio-no-Brasil-.pdf)
+4. [Echarts4R](https://echarts4r.john-coene.com/)
+5. [Apache Echarts](https://echarts.apache.org/en/index.html)
 
 
----
-# Engajamentos, Eventos e Difusão
-
-0. [Base dos dados](basedosdados.org)
-1. [Open Data Day](https://opendataday.org/pt_br/)
-2. [SER VI](http://ser.uff.br/)
-3. [LGPD](https://youtu.be/d9BoYJaYSRk)
-4. [Dado, Conhecimento e Informação](https://soundcloud.com/grupometropole/19-10-20-comentario-andre-lemos-informacao-dado-e-conhecimento?ref=clipboard&p=i&c=0)
-5. [Beatriz Milz](https://github.com/beatrizmilz)
-6. [Ícaro Bernardes](https://github.com/IcaroBernardes)
